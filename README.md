@@ -1,1 +1,2 @@
-# electrical-landing-page
+electrical-landing-page
+app/page.js
